@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com",
+            "port": 5439,
+            "driver": "Redshift Driver (Dedicated ver)",
+            "name": "PostgreSQL",
+            "database": "data-engineer-database",
+            "username": "ngutierrez_coderhouse",
+            "password": "L4et1wP7eZ"
+        }
+    ]
+}
